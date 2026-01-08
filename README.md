@@ -1,4 +1,4 @@
-# Netflix Stock Price Prediction using LSTM Neural Networks
+## Netflix Stock Price Prediction using LSTM Neural Networks
 This project implements a Deep Learning architecture based on Long Short-Term Memory (LSTM) networks to forecast Netflix (NFLX) stock prices. By leveraging time-series analysis, the model captures complex temporal dependencies to predict future market trends.
 
 📊 Business Overview
